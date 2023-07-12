@@ -1,6 +1,6 @@
 # ChargeTrip-GraphQL
 
-In this [tutorial](https://vincenzopascarella.medium.com/b7f3af193a6c?source=friends_link&sk=1e638a232c7e9d6162e1d3d13b754387), we explored how to integrate GraphQL into an iOS app using the Apollo iOS SDK. We covered the steps required to set up the Apollo iOS SDK, authenticate requests, write GraphQL queries, and display the retrieved data in a SwiftUI user interface.
+In this [tutorial](https://vincenzopascarella.medium.com/unleashing-the-power-of-graphql-in-your-ios-app-67e0f768cb14?source=friends_link&sk=49746da3310ae46bec6d8a86c66d2b7b), we explored how to integrate GraphQL into an iOS app using the Apollo iOS SDK. We covered the steps required to set up the Apollo iOS SDK, authenticate requests, write GraphQL queries, and display the retrieved data in a SwiftUI user interface.
 
 ## Here are the key points we covered:
 
